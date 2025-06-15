@@ -1,1 +1,1 @@
-# imdb-rating-predictor
+IMDb Rating Predictor is a data science project aimed at predicting the IMDb ratings of movies based on various features such as genre, duration, director, cast, and more. The project involves end-to-end steps including data collection, exploratory data analysis (EDA), preprocessing, feature selection, model training, and evaluation using machine learning algorithms. The goal is to build an accurate and interpretable model that can estimate a movie's rating and provide insights into what factors most influence viewer ratings.
